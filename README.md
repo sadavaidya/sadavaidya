@@ -2,7 +2,9 @@
 # Hi there, I'm Sadashiv 👋
 
 ## 🚀 About Me
-I'm a robotics and ML engineer passionate about building intelligent systems.
+- Machine learning enthusiast with 3+ years of industry experience turning data into decisions and models into magic ✨
+- Passionate about researching, developing, and deploying AI solutions that solve real-world problems—at scale.
+- From prototypes to production, I live for clean code, clever models, and the occasional breakthrough moment. 🚀
 
 ## 🛠️ Skills
 - Python | C++ | ROS
@@ -15,7 +17,7 @@ I'm a robotics and ML engineer passionate about building intelligent systems.
 
 -->
 ## 📫 Connect with me
-- [LinkedIn]([(https://www.linkedin.com/in/sadashiv20/)](https://www.linkedin.com/in/sadashiv20/))
+- [LinkedIn]([https://www.linkedin.com/in/sadashiv20/])
 
 <!--
 **sadavaidya/sadavaidya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
