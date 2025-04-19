@@ -9,12 +9,13 @@ I'm a robotics and ML engineer passionate about building intelligent systems.
 - Machine Learning | Deep Learning | NLP
 - Computer Vision | OpenCV | Pytorch
 - Git | Docker | Streamlit
-
+<!--
 ## 📈 My GitHub Stats
 ![Sadashiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadavaidya&show_icons=true&theme=radical)
 
+-->
 ## 📫 Connect with me
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sadashiv20/))
+- [LinkedIn]([(https://www.linkedin.com/in/sadashiv20/)](https://www.linkedin.com/in/sadashiv20/))
 
 <!--
 **sadavaidya/sadavaidya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
