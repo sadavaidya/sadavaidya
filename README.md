@@ -1,39 +1,73 @@
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sadashiv" /> </p>
+👋 About Me
+Data Scientist & Machine Learning Engineer with 3+ years of experience delivering end-to-end AI and data-driven solutions in industry and research.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sadashiv" />
-</p>
+Skilled in building robust ML pipelines, deploying models to production, and translating business needs into actionable analytics.
 
+Passionate about NLP, computer vision, and leveraging cloud platforms (AWS, GCP, Azure) for scalable data science.
 
+Thrive in collaborative, agile teams where innovation and measurable business impact are the focus.
 
-## 🚀 About Me
-- Machine learning enthusiast with 3+ years of industry experience turning data into decisions and models into magic ✨
-- Passionate about researching, developing, and deploying AI solutions that solve real-world problems—at scale.
-- From prototypes to production, I live for clean code, clever models, and the occasional breakthrough moment. 🚀
+🛠️ Skills & Tools
+Programming: Python, SQL, R, C++, MATLAB
 
-## 🛠️ Skills
-- Python | C++ | ROS
-- Machine Learning | Deep Learning | NLP
-- Computer Vision | OpenCV | Pytorch
-- Git | Docker | Streamlit
-<!--
-## 📈 My GitHub Stats
-![Sadashiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadavaidya&show_icons=true&theme=radical)
+Machine Learning: Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision, LLM, RAG
 
--->
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/sadashiv20/)
+Frameworks: TensorFlow, PyTorch, Hugging Face, Fastai, Keras, XGBoost, LangChain, NLTK, OpenCV
 
-<!--
-**sadavaidya/sadavaidya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering: ETL/ELT pipelines, Data Modeling, Data Architecture, Data Migration
 
-Here are some ideas to get you started:
+Cloud & Big Data: GCP (BigQuery, Dataflow, Cloud Storage), AWS (S3, SageMaker), Azure ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MLOps & DevOps: Docker, Kubernetes, Terraform, MLflow, Git, CI/CD, Streamlit, Flask, FastAPI
+
+Soft Skills: Problem-Solving, Analytical Thinking, Communication, Stakeholder Management, Agile/Scrum
+
+🚩 Featured Projects
+Water Potability Prediction with DVC
+End-to-end ML pipeline with DVC and Git for reproducible data and model versioning.
+
+Demonstrates best practices in structuring, tracking, and scaling ML workflows.
+
+NLP Sentiment Analysis
+Built and deployed a sentiment analysis model using TensorFlow and NLTK.
+
+Achieved 85% accuracy on real-world customer feedback.
+
+Text Classification Pipeline
+Scalable document categorization using BERT transformers.
+
+Improved classification accuracy by 20% through advanced feature extraction.
+
+Emotion Detection with CNN
+Implemented CNN-based emotion detection from facial expressions.
+
+Enhanced model performance with hyperparameter tuning and data augmentation.
+
+Multispectral Image Analysis
+Automated co-registration of PRISMA and Sentinel-2 satellite imagery.
+
+Leveraged Python and cloud storage for scalable geospatial analysis.
+
+📈 Stats & Achievements
+MSc in Robotics, University of Bristol, UK
+
+Published and productionized multiple ML/NLP/CV projects
+
+Delivered solutions reducing manual workload and improving model performance for enterprise clients
+
+Certifications: Deep Learning Specialization (deeplearning.ai), Stanford ML, Georgia Tech Robotics
+
+📚 Recent Highlights
+🏆 Developed LLM-based chatbot and RAG pipelines for enterprise IT support (TCS)
+
+🚀 Led cloud data migration and ML deployment projects on GCP and AWS
+
+🛠️ Built robust ETL/ELT pipelines and data architectures for analytics and operations
+
+📫 Connect with Me
+LinkedIn
+
+Email
+
+Let’s collaborate on impactful data science and AI projects!
