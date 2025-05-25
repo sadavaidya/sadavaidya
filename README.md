@@ -33,8 +33,8 @@
 ### [NLP Sentiment Analysis](https://github.com/sadavaidya/Sentiment_analysis)
 *Built and deployed a sentiment analysis model using TensorFlow and NLTK. Achieved 85% accuracy on real-world customer feedback.*
 
-### [Text Classification Pipeline](https://github.com/sadavaidya/Text-Classification-Pipeline)
-*Scalable document categorization using BERT transformers. Improved classification accuracy by 20% through advanced feature extraction.*
+### [Text Classification Pipeline for Disaster Tweets](https://github.com/sadavaidya/Disaster_classifier)
+*Scalable disaster classifier using BERT transformers. Improved classification accuracy by 20% through advanced feature extraction.*
 
 ### [Predicting Fashion Category using CNN](https://github.com/sadavaidya/Predicting_category_fashion_dataset)
 *Implemented CNN-based emotion detection from facial expressions. Enhanced model performance with hyperparameter tuning and data augmentation.*
