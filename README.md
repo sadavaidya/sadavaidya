@@ -27,8 +27,8 @@
 
 ## 🚩 Featured Projects
 
-### [Water Potability Prediction with DVC](https://github.com/sadavaidya/Water_potability_with_dvc)
-*End-to-end ML pipeline with DVC and Git for reproducible data and model versioning. Demonstrates best practices in structuring, tracking, and scaling ML workflows.*
+### [AI from Scratch](https://github.com/sadavaidya/AI_from_scratch)
+*This repository contains implementation of AI models from scratch using basic python frameworks. Key focus is on understanding concepts behind AI models through research papers and its simple implementation*
 
 ### [NLP Sentiment Analysis](https://github.com/sadavaidya/Sentiment_analysis)
 *Built and deployed a sentiment analysis model using TensorFlow and NLTK. Achieved 85% accuracy on real-world customer feedback.*
